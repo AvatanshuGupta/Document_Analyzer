@@ -9,7 +9,6 @@ A Streamlit web app that allows users to ask questions about uploaded **document
 - Upload document images (JPEG, PNG)
 - Ask questions about the document
 - Get accurate answers powered by LayoutLM
-- Displays confidence score for answers
 - Clean, responsive, and user-friendly UI
 
 ---
