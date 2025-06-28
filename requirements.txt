@@ -4,3 +4,4 @@ pytesseract
 torchvision
 opencv-python
 pillow
+streamlit
